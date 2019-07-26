@@ -1,4 +1,4 @@
-# Food Website - HTML & CSS (Basic)
+# Food Website - HTML & CSS (Front-End | Basic)
 
 This app display a restaurant information and related data that the restaurant have. Used in a Chevalier course in the Website Developer Basic.
 
